@@ -9,3 +9,4 @@ langchain/bin langchain/include langchain/lib langchain/lib64 langchain/pyvenv.c
 langchain
 id_rsa_github
 id_rsa_github.pub
+.ssh
