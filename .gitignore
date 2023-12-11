@@ -10,3 +10,7 @@ langchain
 id_rsa_github
 id_rsa_github.pub
 .ssh
+.bash_history
+.cache/
+.vscode-server/
+.wget-hsts
